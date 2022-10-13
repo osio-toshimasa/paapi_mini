@@ -49,8 +49,8 @@ Or install it yourself as:
     # region: "us-west-2",
     # market_place: "www.amazon.co.jp"
     
-    PaapiMini::search_items(ENV['ACCESS_KEY'], ENV['SECRET_KEY'], ENV['PARTNER_TAG'],
-                            keywords: "Ruby", min_review_rating: 3)
+    res = PaapiMini::search_items(ENV['ACCESS_KEY'], ENV['SECRET_KEY'], ENV['PARTNER_TAG'],
+                                  keywords: "Ruby", min_review_rating: 3)
 
     # res is Net::HTTPResponse Object
     # See Also https://docs.ruby-lang.org/
