@@ -5,11 +5,11 @@ require_relative "lib/paapi_mini/version"
 Gem::Specification.new do |spec|
   spec.name = "paapi_mini"
   spec.version = PaapiMini::VERSION
-  spec.authors = ["oco"]
+  spec.authors = ["tossi-punch"]
   spec.email = ["osio.toshimasa@gmail.com"]
 
-  spec.summary = "Simple Amazon SearchItems By Amazon Advertising Product API."
-  spec.description = "This Gem is implemented using only the Ruby standard library, so it does not depend on other Gems"
+  spec.summary = "Amazon SearchItems By Amazon Advertising Product API."
+  spec.description = "paapi_mini is PA-API5.0 client. supported by searchItems api only.  ClientThis Gem is implemented using only the Ruby standard library, so it does not depend on other Gems"
   spec.homepage = "https://github.com/osio-toshimasa/paapi_mini"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.7.0"
