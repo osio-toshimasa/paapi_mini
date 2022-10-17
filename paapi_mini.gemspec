@@ -9,16 +9,14 @@ Gem::Specification.new do |spec|
   spec.email = ["osio.toshimasa@gmail.com"]
 
   spec.summary = "Amazon SearchItems By Amazon Advertising Product API."
-  spec.description = "paapi_mini is PA-API5.0 client. supported by searchItems api only.  ClientThis Gem is implemented using only the Ruby standard library, so it does not depend on other Gems"
+  spec.description = "paapi_mini is PA-API5.0 client. This Gem is implemented using only the Ruby standard library, so it does not depend on other Gems. supported by searchItems api only."
   spec.homepage = "https://github.com/osio-toshimasa/paapi_mini"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.7.0"
 
-  #  spec.metadata["allowed_push_host"] = ""
-
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/osio-toshimasa/paapi_mini"
-  spec.metadata["changelog_uri"] = "https://github.com/osio-toshimasa/paapi_mini/CHANGELOG.md"
+  spec.metadata["changelog_uri"] = "https://github.com/osio-toshimasa/paapi_mini/blob/master/CHANGELOG.md"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
