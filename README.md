@@ -63,7 +63,7 @@ Or install it yourself as:
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-## If you like this Gem, I'd be happy to help.
+## If you like this Gem, please help us!
 
 * Development is currently suspended. This is because the API response results in an error if no Amazon Associate sales results are generated for 30 days.
 * If you like this Gem, we would appreciate it if you could buy Amazon products from [this link](https://amzn.to/3Ta7pvV).

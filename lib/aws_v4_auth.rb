@@ -39,8 +39,8 @@ module PaapiMini
       Hash[@headers]
     end
 
-    # URI文字列の生成
-    # create_search_itemsを呼び出していないと機能しない
+    # MakeURI
+    # this call after method create_search_items required
     def make_uri
       "https://#{@headers['Host']}#{@path}"
     end

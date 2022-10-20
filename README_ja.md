@@ -63,7 +63,7 @@ Or install it yourself as:
 
 このGemのライセンスは [MIT License](https://opensource.org/licenses/MIT)となります。
 
-## このGemが気に入ってくれたら、助けてくれると嬉しいです。
+## このGemが気に入ってくれたら、ご協力お願いします。
 
 * 現在、開発が停止しています。 Amazonアソシエイトの販売実績が３０日間発生しないと、APIの応答結果がエラーになってしまうためです。
 * もしこのGemを気に入ってくれた方がいましたら、[こちらのリンク](https://amzn.to/3Ta7pvV)からAmazon商品を買っていただけると助かります。
